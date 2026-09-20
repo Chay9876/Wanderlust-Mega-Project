@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: chaitanyadockhub/wanderlust-backend-image:V1
+          image: chaitanyadockhub/wanderlust-backend-image:V2
           ports:
             - containerPort: 8080
 ---

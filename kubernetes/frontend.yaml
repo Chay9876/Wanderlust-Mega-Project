@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: chaitanyadockhub/wanderlust-frontend-image:V1
+          image: chaitanyadockhub/wanderlust-frontend-image:V2
           ports:
             - containerPort: 5173
 ---
